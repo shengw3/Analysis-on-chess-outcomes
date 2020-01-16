@@ -5,4 +5,4 @@ We did some data preprocessing and analyzed it in three aspects.
 2. Modeling draws and taking user inputs
 3. Probabilities of checkmates, resigns and draws
 
-This is a team project with Kevin, Adonis and Cedric.
+This is a team project with Kevin, Adonis and Cedric. For more information, please refer to the project report. 
