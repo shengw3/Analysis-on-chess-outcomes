@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 21 14:06:19 2019
 
-@author: Kevin
+@author: Kevin, Adonis, Cedric, Shenghua
 """
 
 import pandas as pd
